@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17453967.svg)](https://doi.org/10.5281/zenodo.17453967)
+
 # SyncEntropy · Core Framework
 
 **Author:** Jasmine Chiu  
@@ -41,3 +43,22 @@ This principle generalizes to AI learning dynamics, organizational intelligence,
 © 2025 Jasmine Chiu. All rights reserved.  
 This repository serves as a proof of concept and originality record.  
 Commercial or derivative use requires written consent from the author.
+
+
+---
+
+## Citation
+
+**APA**
+> Chiu, J. (2025). *SyncEntropy Hypothesis: Intelligence as System Coordination Entropy* [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.17453967
+
+**BibTeX**
+```bibtex
+@misc{chiu2025syncentropy,
+  author       = {Jasmine Chiu},
+  title        = {SyncEntropy Hypothesis: Intelligence as System Coordination Entropy},
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17453967},
+  url          = {https://doi.org/10.5281/zenodo.17453967}
+}
