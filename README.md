@@ -38,7 +38,7 @@ It is built on two core components:
 
 ## Intellectual Property & Licensing  
 
-The concepts, definitions, and frameworks of **The Syncentropy Law™**, **Syncentropy™ (S)**, and **The S-Decay Principle™**  
+The concepts, definitions, and frameworks of **The Syncentropy Law™**, **Syncentropy™ (S)**, and **The S-Drift Principle™**  
 are the exclusive intellectual property of **Jasmine Chiu**.  
 
 This repository serves as a public timestamp to establish this claim.  
