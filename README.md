@@ -6,11 +6,6 @@
 **Organization:** Syncentropy Research  
 **Contact:** syncentropy@proton.me
 
-# The Syncentropy Law™  
-**Author:** Jasmine Chiu  
-**Organization:** Syncentropy Research  
-**Contact:** syncentropy@proton.me  
-
 ---
 
 ## The Official IP Beacon  
