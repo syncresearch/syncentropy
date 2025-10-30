@@ -1,22 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17453967.svg)](https://doi.org/10.5281/zenodo.17453967)
 
-# SyncEntropy · Core Framework
 
 
-
-**Author:** Jasmine Chiu  
-**Date:** 2025-10-27  
-**Organization:** Syncentropy Research  
-**Contact:** syncentropy@proton.me  
-
----
-# Sync Entropy™
-
-A framework for AI synchrony and system coherence.  
-© 2025 Jasmine Chiu. All rights reserved.  
-Sync Entropy™ is a proprietary research and software framework developed by Jasmine Chiu.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17453967.svg)](https://doi.org/10.5281/zenodo.17453967)
 
 # The Syncentropy Law™  
 **Author:** Jasmine Chiu  
