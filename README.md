@@ -1,7 +1,10 @@
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17453967.svg)](https://doi.org/10.5281/zenodo.17453967)
 
-
-
+# The Syncentropy Law™
+**Author:** Jasmine Chiu  
+**Organization:** Syncentropy Research  
+**Contact:** syncentropy@proton.me
 
 # The Syncentropy Law™  
 **Author:** Jasmine Chiu  
