@@ -38,7 +38,7 @@ It is built on two fundamental components:
    This represents the **Law of Stability**.
 
 
-📘 **Appendix A:** [Mathematical Definition of the S-Converge Law™](./Appendix_A_S_ConvergeLaw.pdf)
+📘 **Appendix A:** [Mathematical Definition of the S-Converge Law™](./Appendix_A_S-ConvergeLaw.pdf)
 ---
 
 ## **Intellectual Property & Licensing**
