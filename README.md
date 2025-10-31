@@ -17,7 +17,7 @@ This repository serves as the **canonical source and intellectual-property (IP) 
 first proposed by **Jasmine Chiu (2025)** in the foundational paper  
 *Synchronization as the Hidden Substrate of Intelligence: From GPU Architecture to Coherent Systems.*  
 
-The theory posits that the bottleneck of modern AI is **not computation, but synchronization**.
+The theory posits that the bottleneck of modern AI is **not computation and scale, but synchronization**.
 
 ---
 
