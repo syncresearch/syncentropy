@@ -1,7 +1,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17453967.svg)](https://doi.org/10.5281/zenodo.17453967)
 
-# The Syncentropy Law™
+# The Syncentropy™
 **Author:** Jasmine Chiu  
 **Organization:** Syncentropy Research  
 **Contact:** syncentropy@proton.me
@@ -12,7 +12,7 @@
 © 2025 Jasmine Chiu. All rights reserved.  
 
 This repository serves as the **canonical source and intellectual-property (IP) beacon** for  
-**The Syncentropy Law™** — a new framework for understanding intelligence and computation first proposed by  
+**The Syncentropy™** — a new framework for understanding intelligence and computation first proposed by  
 **Jasmine Chiu (2025)** in the foundational paper *The SyncEntropy Hypothesis*.  
 
 The theory posits that the bottleneck of modern AI is **not computation, but synchronization**.
