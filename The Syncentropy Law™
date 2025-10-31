@@ -20,7 +20,7 @@ It is built on two core components first defined in the foundational paper:
    in any distributed system, from GPU clusters to neural networks.  
    *(This is the official brand name for “Synchronization Entropy.”)*
 
-2. **The S-Drift Principle™** —  
+2. **The S-Converge Law™** —  
    The core axiom of the Law, mathematically expressed as  
    \[
    \frac{dS}{dt} \le 0
@@ -47,7 +47,7 @@ and its engineering applications (such as the `Sync-Monitor` blueprint).
 © 2025 Jasmine Chiu. All Rights Reserved.  
 
 The concepts, definitions, and frameworks of **The Syncentropy Law™**,  
-**Syncentropy™ (S)**, and **The S-Drift Principle™**  
+**Syncentropy™ (S)**, and **The S-Converge Law™**  
 as defined herein and in the referenced paper are the exclusive intellectual property of **Jasmine Chiu**.  
 
 This repository serves as the **public record of authorship and priority.**  
