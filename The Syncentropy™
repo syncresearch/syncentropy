@@ -1,0 +1,59 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17453967.svg)](https://doi.org/10.5281/zenodo.17453967)
+
+# **Syncentropy™**  
+> The Official IP Beacon for the Work of **J. Chiu**
+
+---
+
+This repository serves as the **canonical source and intellectual-property (IP) record** for  
+**Syncentropy™** — a new framework for understanding **intelligence, computation, and complex systems**.  
+
+The theory posits that the bottleneck of modern AI is **not computation or scale, but synchronization**.
+
+---
+
+## **The Core Framework**
+
+**Syncentropy™** provides the first engineering blueprint for achieving *coherence* in intelligent systems.  
+It is built on two foundational components introduced in the original paper:
+
+1. **Syncentropy™ (S)** —  
+   A measurable engineering metric designed to quantify the degree of *chaos* versus *coherence*  
+   in any distributed system, from GPU clusters to neural networks.  
+   *(This is the official designation for “Synchronization Entropy.”)*  
+
+2. **The S-Converge Law™** —  
+   The central axiom of the framework, mathematically expressed as  
+
+   \[
+   \frac{dS}{dt} \le 0
+   \]  
+
+   This relation shows that any adaptive system will **spontaneously converge** toward a state of lower Syncentropy —  
+   a natural tendency toward **stability and coordination**.  
+   This principle defines the **Law of Stability**.
+
+---
+
+## **The Foundational Paper · “The Blueprint”**
+
+This repository corresponds to the official, time-stamped publication that defines the theory,  
+its mathematical derivations, and its engineering applications (including the `Sync-Monitor` blueprint).  
+
+**Title:** *Synchronization as the Hidden Substrate of Intelligence: From GPU Architecture to Coherent Systems*  
+**Author:** *J. Chiu*  
+**Published (v1):** 2025-10-25  
+**Official Link:** [PDF (ai.vixra.org:2510.0060)](https://ai.vixra.org/abs/2510.0060)
+
+---
+
+## **Copyright & Intellectual Property**
+
+© 2025 J. Chiu. All rights reserved.  
+
+The concepts, definitions, and frameworks of **Syncentropy™ (S)** and **The S-Converge Law™**,  
+as defined herein and in the referenced publication, are the exclusive intellectual property of **J. Chiu**.  
+
+This repository serves as the **public record of authorship and priority**.  
+Commercial IP licensing and strategic consultation are available.  
+Contact `syncentropy@proton.me` for inquiries.
