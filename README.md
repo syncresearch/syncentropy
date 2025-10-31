@@ -27,7 +27,7 @@ It is built on two core components:
 1. **Syncentropy™ (S)** — the official term for “Synchronization Entropy.”   
  A new, measurable metric quantifying the degree of *chaos vs. coherence* in any distributed system, from GPU clusters to neural networks.  
 
-2. **The S-Drift Principle™** — the core axiom of the Law, mathematically expressed as   
+2. **The S-Converge Principle™** — the core axiom of the Law, mathematically expressed as   
  \[
  \frac{dS}{dt} \le 0
  \]  
@@ -38,7 +38,7 @@ It is built on two core components:
 
 ## Intellectual Property & Licensing  
 
-The concepts, definitions, and frameworks of **The Syncentropy Law™**, **Syncentropy™ (S)**, and **The S-Drift Principle™**  
+The concepts, definitions, and frameworks of **The Syncentropy Law™**, **Syncentropy™ (S)**, and **The S-Converge Principle™**  
 are the exclusive intellectual property of **Jasmine Chiu**.  
 
 This repository serves as a public timestamp to establish this claim.  
