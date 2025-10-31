@@ -57,7 +57,9 @@ This repository corresponds to the official, time-stamped publication that first
 *Syncentropy™* is the formal intellectual-property derivation from that work.  
 
 **APA Citation**  
-> Chiu, J. (2025). *Synchronization as the Hidden Substrate of Intelligence: From GPU Architecture to Coherent Systems.* Zenodo. https://doi.org/10.5281/zenodo.17453967  
+> Chiu, J. (2025). *Synchronization as the Hidden Substrate of Intelligence: From GPU Architecture to Coherent Systems.* Zenodo. https://doi.org/10.5281/zenodo.17453967
+>
+> 📘 **Appendix A:** [Mathematical Definition of the S-Converge Law™](./Appendix_A_S_ConvergeLaw.pdf)
 
 **BibTeX**  
 ```bibtex
