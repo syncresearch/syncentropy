@@ -38,7 +38,7 @@ It is built on two core components:
 
 ## Intellectual Property & Licensing  
 
-The concepts, definitions, and frameworks of **The Syncentropy Law™**, **Syncentropy™ (S)**, and **The S-Converge Law™**  
+The concepts, definitions, and frameworks of **Syncentropy™ (S)**, and **The S-Converge Law™**  
 are the exclusive intellectual property of **Jasmine Chiu**.  
 
 This repository serves as a public timestamp to establish this claim.  
@@ -51,7 +51,7 @@ Contact **syncentropy@proton.me** for inquiries.
 ## Foundational Paper & Citation  
 
 This is the official, time-stamped publication that first introduced the hypothesis.  
-*The Syncentropy Law™* is the formal name for the intellectual-property derivation from that work.  
+*Syncentropy™* is the formal name for the intellectual-property derivation from that work.  
 
 **APA Citation**  
 > Chiu, J. (2025). *SyncEntropy Hypothesis: Intelligence as System Coordination Entropy.* Zenodo. https://doi.org/10.5281/zenodo.17453967  
