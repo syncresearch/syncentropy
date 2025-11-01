@@ -30,7 +30,7 @@ It is built on two fundamental components:
    A measurable metric that quantifies the degree of *chaos versus coherence*  
    in any distributed system, from GPU clusters to neural networks.  
 
-2. **The S-Converge Law™** — the core axiom of the framework, mathematically expressed as  
+2. The **S-Converge Law™** — the core axiom of the framework, mathematically expressed as  
    \[
    \frac{dS}{dt} \le 0
    \]  
@@ -43,8 +43,11 @@ It is built on two fundamental components:
 
 ## **Intellectual Property & Licensing**
 
-The concepts, definitions, and frameworks of **Syncentropy™ (S)** and **The S-Converge Law™**  
-are the exclusive intellectual property of **Jasmine Chiu**.  
+The concepts, definitions, and frameworks of **Syncentropy™** (S), **Synchronization Entropy™**, and The **S-Converge Law™**
+are the exclusive intellectual property of Jasmine Chiu.
+
+These terms denote the same foundational construct of synchronization-based entropy and form an integrated theoretical framework.
+No part of this work may be reproduced, modified, or redefined without explicit permission.
 
 This repository serves as the **public timestamp and authorship record** establishing this claim.  
 
