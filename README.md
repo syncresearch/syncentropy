@@ -51,6 +51,8 @@ No part of this work may be reproduced, modified, or redefined without explicit 
 
 This repository serves as the **public timestamp and authorship record** establishing this claim.  
 
+These marks collectively refer to the same system-level law of synchronization intelligence.
+
 Commercial IP licensing and strategic consultation are available.  
 Contact **syncentropy@proton.me** for inquiries.
 
